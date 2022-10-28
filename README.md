@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anjan Budige Altruist</h1>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=radical" />
+</picture>
+
 <h3 align="center">A passionate Front & Backend Coder From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan-budige&label=Profile%20views&color=0e75b6&style=flat" alt="anjan-budige" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan-budige&label=Profile%20views&color=0e75b6&style=flat&theme=radiacal" alt="anjan-budige" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjan-budige" alt="anjan-budige" /></a> </p>
 
@@ -35,8 +47,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alpha_x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alpha_x" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjan-budige&show_icons=true&locale=en&layout=compact" alt="anjan-budige" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&locale=en" alt="anjan-budige" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjan-budige&" alt="anjan-budige" /></p>
