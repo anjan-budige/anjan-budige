@@ -5,7 +5,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=algolia"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=radical" />
