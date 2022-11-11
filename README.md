@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjanikumar-spec?tab=repositories](https://github.com/anjanikumar-spec?tab=repositories)
 
-- 📝 I regularly write Earning articles on [Tricksadda.xyz](Tricksadda.xyz)
+- 📝 I regularly write Earning articles on [Tricksadda.xyz](https://Tricksadda.xyz)
 
 - 💬 Ask me about **Php, Html, Cloud Storage & Cpanel**
 
