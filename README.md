@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjan Budige Altruist</h1>
-<picture>
+
+<!--<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -10,6 +11,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=radical" />
 </picture>
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=anjan-budige&theme=tokyonight)](https://git.io/streak-stats)
 
 <h3 align="center">A passionate Front & Backend Coder From India</h3>
 
