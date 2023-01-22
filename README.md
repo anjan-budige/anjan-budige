@@ -28,13 +28,13 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anjanikumar-spec?tab=repositories](https://github.com/anjanikumar-spec?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/anjan-budige?tab=repositories](https://github.com/anjan-budige?tab=repositories)
 
 - 📝 I regularly write Earning articles on [Tricksadda.xyz](https://Tricksadda.xyz)
 
 - 💬 Ask me about **Php, Html, Cloud Storage & Cpanel**
 
-- 📫 How to reach me **hypelinks@candassociates.com**
+- 📫 How to reach me **anjanbudige@gmail.com**
 
 - ⚡ Fun fact **I Easily Fall In Love 💜 With PHP**
 
