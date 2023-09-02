@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan-budige&label=Profile%20views&color=0e75b6&style=flat&theme=radiacal" alt="anjan-budige" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjan-budige" alt="anjan-budige" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anjan-budige" alt="anjan-budige" /></a> </p>
 
 - 🔭 I’m currently working on [Php Cloud Storage](https://LinksEarn.site)
 
