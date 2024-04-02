@@ -12,7 +12,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anjan-budige&show_icons=true&theme=radical" />
 </picture>
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anjan-budige&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=anjan-budige&theme=tokyonight" alt="GitHub Streak">
+</p>
+
 
 <h3 align="center">A passionate Front & Backend Coder From India</h3>
 
