@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjan Budige Altruist</h1>
+<h1 align="center">Hi 👋, I'm Anjan Budige</h1>
 
 <!--<picture>
 <source 
