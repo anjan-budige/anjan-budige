@@ -25,21 +25,21 @@
 
 - 🔭 I’m currently working on IoT Projects
 
-- 🌱 I’m currently learning **Python, Java Script & More**
+- 🌱 I’m currently learning **LLM's, Full Stack & More**
 
-- 👯 I’m looking to collaborate on **PHP Projects**
-
-- 🤝 I’m looking for help with **Python**
+- 👯 I’m looking to collaborate on **PHP, Full Stack, AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjan-budige?tab=repositories](https://github.com/anjan-budige?tab=repositories)
 
-- 📝 I regularly write Earning articles on [Tricksadda.xyz](https://Tricksadda.xyz)
-
-- 💬 Ask me about **Php, Html, Cloud Storage & Cpanel**
+- 💬 Ask me about **Web Devlopment, IOT, Cloud Storage & Deployment**
 
 - 📫 How to reach me **anjanbudige@gmail.com**
 
-- ⚡ Fun fact **I Easily Fall In Love 💜 With PHP**
+- ⚡ Fun fact **I connect easily and spread positivity!**
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjan-budige&show_icons=true&locale=en&layout=compact" alt="anjan-budige" /></p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
