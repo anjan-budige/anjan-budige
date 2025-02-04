@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjan-budige?tab=repositories](https://github.com/anjan-budige?tab=repositories)
 
-- 💬 Ask me about **Web Devlopment, IOT, Cloud Storage & Deployment**
+- 💬 Ask me about **Web Devlopment, IoT, Cloud Storage & Deployment**
 
 - 📫 How to reach me **anjanbudige@gmail.com**
 
