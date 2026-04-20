@@ -13,7 +13,7 @@
 </picture>
 -->
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=anjan-budige&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=anjan-budige&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan-budige&label=Profile%20views&color=0e75b6&style=flat&theme=radiacal" alt="anjan-budige" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anjan-budige" alt="anjan-budige" /></a> </p>
+<p align="left"><img src="https://github-trophies.vercel.app/?username=anjan-budige" alt="anjan-budige" /></a> </p>
 
 - 🔭 I’m currently working on MERN Stack Projects
 
