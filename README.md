@@ -106,6 +106,19 @@ Currently exploring **Kubernetes, DevOps, and cloud-native deployment** to build
 </div>
 
 <div align="center">
+<a href="https://github.com/anjan-budige/vidhya-ai">
+  <img src="assets/vidhya-ai.svg" width="100%" alt="vidhya-ai" />
+</a>
+</div>
+
+<div align="center">
+Flagship AI educational assistant — FastAPI + React, RAG over pgvector, and a Telegram bot &amp; web app on one knowledge base.<br/>
+Subscriptions with PhonePe billing, Celery ingestion, Redis caching, MinIO storage, TOTP-2FA admin and Docker Compose infra.
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://github.com/anjan-budige/gamyam">
   <img src="assets/gamyam.svg" width="100%" alt="gamyam" />
 </a>
