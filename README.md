@@ -106,6 +106,19 @@ Currently exploring **Kubernetes, DevOps, and cloud-native deployment** to build
 </div>
 
 <div align="center">
+<a href="https://github.com/anjan-budige/gamyam">
+  <img src="assets/gamyam.svg" width="100%" alt="gamyam" />
+</a>
+</div>
+
+<div align="center">
+Unofficial TSRTC live bus tracker in Kotlin + Jetpack Compose, with a Where-is-my-Train-style route timeline.<br/>
+Real-time positions, next-stop ETA, nearby stops, reminders and District / City / Airport search — signed release APK in the repo.
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://github.com/anjan-budige/diya-backend">
   <img src="assets/diya-backend.svg" width="100%" alt="diya-backend" />
 </a>
@@ -166,19 +179,6 @@ Served as a CORS-enabled Flask prediction API with a decoupled HTML/JS frontend,
 <div align="center">
 Streamlit + YOLOv11 + OpenCV tool that detects and counts vehicles from uploaded videos or live camera feeds in real time.<br/>
 Classifies traffic as Rush / No-Rush from vehicle density and streams live statistics on a web dashboard.
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/anjan-budige/gamyam">
-  <img src="assets/gamyam.svg" width="100%" alt="gamyam" />
-</a>
-</div>
-
-<div align="center">
-Unofficial TSRTC live bus tracker in Kotlin + Jetpack Compose, with a Where-is-my-Train-style route timeline.<br/>
-Real-time positions, next-stop ETA, nearby stops, reminders and District / City / Airport search — signed release APK in the repo.
 </div>
 
 <br/>
