@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,30&height=185&section=header&text=ANJAN%20BUDIGE&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Fullstack%20MERN%20Developer%20%7C%20Ethical%20Hacking%20%7C%20Reverse%20Engineering%20%7C%20Mobile%20Development&descAlignY=53&descAlign=50" alt="Anjan Budige banner" />
 
@@ -45,19 +45,19 @@
   <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
-<div align="center">
+<div>
 
-**Fullstack MERN Developer** building practical web apps, APIs, dashboards, and automation tools.
+I'm a **Full-Stack MERN Developer** focused on building practical web applications, scalable APIs, interactive dashboards, and automation tools.
 
-Interested in **reverse engineering**, **cybersecurity**, **ethical hacking**, and **bug hunting**.
+My interests include **AI & RAG pipelines, reverse engineering, cybersecurity, ethical hacking, and bug hunting**. I enjoy exploring how systems work under the hood and turning ideas into useful, real-world applications.
 
-Hands-on with **mobile-first interfaces**, backend systems, scraping/data workflows, AI tools, and real-time applications.
+I work across **web and mobile development, backend engineering, data extraction workflows, AI integrations, and real-time applications**, with an emphasis on usability, performance, and maintainable code.
 
-Currently learning **Kubernetes**, **DevOps**, and modern cloud-native deployment workflows.
+Currently exploring **Kubernetes, DevOps, and cloud-native deployment** to build, ship, and scale applications more effectively.
 
-Open to collaborating on **full-stack**, **PHP**, **AI**, **mobile development**, and security-focused projects.
+🤝 **Open to collaborating on:** Full-stack development, AI-powered applications, RAG systems, PHP projects, mobile apps, developer tools, and security research.
 
-I work on security research only in authorized, owned, or intentionally vulnerable environments.
+🔐 I practice security research responsibly, focusing on systems I own, have explicit permission to test, or that are intentionally designed for security testing.
 
 </div>
 
