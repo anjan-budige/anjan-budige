@@ -171,6 +171,19 @@ Classifies traffic as Rush / No-Rush from vehicle density and streams live stati
 <br/>
 
 <div align="center">
+<a href="https://github.com/anjan-budige/gamyam">
+  <img src="assets/gamyam.svg" width="100%" alt="gamyam" />
+</a>
+</div>
+
+<div align="center">
+Unofficial TSRTC live bus tracker in Kotlin + Jetpack Compose, with a Where-is-my-Train-style route timeline.<br/>
+Real-time positions, next-stop ETA, nearby stops, reminders and District / City / Airport search — signed release APK in the repo.
+</div>
+
+<br/>
+
+<div align="center">
   <h2><b>SKILLS & TECHNOLOGIES</b></h2>
   <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
