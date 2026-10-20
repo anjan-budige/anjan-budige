@@ -117,6 +117,8 @@ Subscriptions with PhonePe billing, Celery ingestion, Redis caching, MinIO stora
 </div>
 
 <br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
+<br/>
 
 <div align="center">
 <a href="https://github.com/anjan-budige/gamyam">
@@ -129,6 +131,8 @@ Unofficial TSRTC live bus tracker in Kotlin + Jetpack Compose, with a Where-is-m
 Real-time positions, next-stop ETA, nearby stops, reminders and District / City / Airport search — signed release APK in the repo.
 </div>
 
+<br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
 <br/>
 
 <div align="center">
@@ -143,6 +147,8 @@ Socket.IO drives real-time multi-user Vibe Sessions for synchronized listening a
 </div>
 
 <br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
+<br/>
 
 <div align="center">
 <a href="https://github.com/anjan-budige/Education-Task-Management">
@@ -155,6 +161,8 @@ Full-stack MERN academic platform with separate Admin, Faculty and Student porta
 Course / batch / user management, task submission and grading, plus a Recharts analytics dashboard with PDF report export.
 </div>
 
+<br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
 <br/>
 
 <div align="center">
@@ -169,6 +177,8 @@ Mobile-first UI with dark mode and Bluetooth hardware-button navigation, deploye
 </div>
 
 <br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
+<br/>
 
 <div align="center">
 <a href="https://github.com/anjan-budige/aichatbot-python">
@@ -181,6 +191,8 @@ Banking support chatbot trained on a structured intents dataset with NLTK prepro
 Served as a CORS-enabled Flask prediction API with a decoupled HTML/JS frontend, or runnable in console via chat.py.
 </div>
 
+<br/>
+<hr style="width:92%; border:0; border-top:1px solid #21262d; margin:14px auto 18px;" />
 <br/>
 
 <div align="center">
