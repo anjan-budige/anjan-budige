@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Song Finder React: React, Axios, Cheerio, Tailwind, Web Bluetooth. Live music search across JioSaavn and Gaana with genre suggestions and Bluetooth navigation. Live demo on Netlify.">
+<defs>
+  <linearGradient id="sf-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#08132C"/>
+    <stop offset="52%" stop-color="#0B1A3C"/>
+    <stop offset="100%" stop-color="#070D20"/>
+  </linearGradient>
+  <linearGradient id="sf-ac" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#6366F1"/>
+  </linearGradient>
+  <linearGradient id="sf-bar" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#7DD3FC"/>
+    <stop offset="100%" stop-color="#4F46E5"/>
+  </linearGradient>
+  <linearGradient id="sf-bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0284C7" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#4338CA" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.75"/>
+  </linearGradient>
+  <linearGradient id="sf-sh" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#BAE6FD" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#BAE6FD" stop-opacity="0.13"/>
+    <stop offset="100%" stop-color="#BAE6FD" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="sf-chip" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#122A50"/>
+    <stop offset="100%" stop-color="#0C1A38"/>
+  </linearGradient>
+  <linearGradient id="sf-beam" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#A5F3FC" stop-opacity="0.85"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="sf-g1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#0284C7" stop-opacity="0.42"/>
+    <stop offset="100%" stop-color="#0284C7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="sf-g2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.32"/>
+    <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="sf-ic" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="sf-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0H0v26" fill="none" stroke="#0C4A6E" stroke-opacity="0.22" stroke-width="1"/>
+  </pattern>
+  <clipPath id="sf-clip"><rect x="2" y="2" width="996" height="276" rx="18"/></clipPath>
+  <clipPath id="sf-panel"><rect x="716" y="62" width="254" height="140" rx="14"/></clipPath>
+</defs>
+
+<rect x="2" y="2" width="996" height="276" rx="18" fill="url(#sf-bg)"/>
+<g clip-path="url(#sf-clip)">
+  <rect x="2" y="2" width="996" height="276" fill="url(#sf-grid)"/>
+  <circle cx="90" cy="60" r="190" fill="url(#sf-ic)"/>
+  <ellipse cx="940" cy="240" rx="260" ry="150" fill="url(#sf-g1)"/>
+  <ellipse cx="620" cy="10" rx="230" ry="120" fill="url(#sf-g2)"/>
+
+  <g fill="#7DD3FC">
+    <circle cx="690" cy="40" r="1.6" opacity="0.5"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="668" cy="196" r="1.3" opacity="0.4"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="982" cy="96" r="1.5" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="26" cy="228" r="1.4" opacity="0.35"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="6.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="-500" y="-60" width="230" height="420" fill="url(#sf-sh)" transform="skewX(-18)">
+    <animate attributeName="x" from="-500" to="1250" dur="6.8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x="2" y="2" width="996" height="276" rx="18" fill="none" stroke="url(#sf-bd)" stroke-width="1.5"/>
+<rect x="2" y="2" width="996" height="276" rx="18" fill="none" stroke="url(#sf-ac)" stroke-width="2" stroke-linecap="round" stroke-dasharray="170 2400" opacity="0.9">
+  <animate attributeName="stroke-dashoffset" from="0" to="-2570" dur="8.2s" repeatCount="indefinite"/>
+</rect>
+
+<g stroke="url(#sf-ac)" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.85">
+  <path d="M20 40V30a10 10 0 0 1 10-10h10"/>
+  <path d="M980 240v10a10 10 0 0 1-10 10h-10"/>
+</g>
+
+<g transform="translate(49,49)" fill="#FFFFFF">
+  <path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+</g>
+<rect x="30" y="30" width="62" height="62" rx="16" fill="none" stroke="url(#sf-ac)" stroke-width="1.2" opacity="0.65"/>
+<circle cx="61" cy="61" r="46" fill="url(#sf-ic)" opacity="0.5">
+  <animate attributeName="opacity" values="0.25;0.6;0.25" dur="4.2s" repeatCount="indefinite"/>
+</circle>
+
+<text x="112" y="52" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F8FAFC" letter-spacing="0.2">Song Finder React</text>
+<text x="112" y="76" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8FA9CC">Real-time music discovery app scraping JioSaavn &amp; Gaana</text>
+
+<rect x="742" y="26" width="228" height="24" rx="12" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/>
+<circle cx="758" cy="38" r="3.5" fill="#34D399"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+<text x="770" y="42" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#7DD3FC" letter-spacing="1.3">LIVE ON NETLIFY · DEPLOYED</text>
+
+<g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#C6D8EE">
+  <g fill="#38BDF8">
+    <path d="M116 112l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M116 136l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M116 160l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M116 184l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M414 112l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M414 136l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M414 160l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M414 184l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+  </g>
+  <text x="128" y="120">Live search across JioSaavn &amp; Gaana</text>
+  <text x="128" y="144">Custom scraping layer built on Cheerio</text>
+  <text x="128" y="168">Genre-based personalized suggestions</text>
+  <text x="128" y="192">Bluetooth hardware button navigation</text>
+  <text x="426" y="120">Mobile-first responsive interface</text>
+  <text x="426" y="144">Dark mode + animated interactive UI</text>
+  <text x="426" y="168">React Router multi-page navigation</text>
+  <text x="426" y="192">Lightweight, minimal dependencies</text>
+</g>
+
+<rect x="716" y="62" width="254" height="140" rx="14" fill="#08182F" fill-opacity="0.72" stroke="#0C4A6E" stroke-width="1"/>
+<circle cx="736" cy="84" r="3.5" fill="#38BDF8"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="748" y="88" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="600" fill="#7DD3FC" letter-spacing="1.4">SCRAPE · MATCH · PLAY</text>
+
+<g clip-path="url(#sf-panel)">
+  <g transform="translate(0,142)" fill="url(#sf-bar)">
+    <rect x="756" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.25;1 0.7;1 0.35;1 0.25" dur="2.1s" repeatCount="indefinite"/></rect>
+    <rect x="768" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.5;1 0.2;1 0.85;1 0.5" dur="1.7s" repeatCount="indefinite"/></rect>
+    <rect x="780" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.35;1 0.95;1 0.45;1 0.35" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="792" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.75;1 0.3;1 0.6;1 0.75" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="804" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.45;1 0.85;1 0.25;1 0.45" dur="2.6s" repeatCount="indefinite"/></rect>
+    <rect x="816" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.9;1 0.4;1 0.7;1 0.9" dur="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="828" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.3;1 0.65;1 1;1 0.3" dur="2.2s" repeatCount="indefinite"/></rect>
+    <rect x="840" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.65;1 0.25;1 0.55;1 0.65" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="852" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.4;1 0.9;1 0.3;1 0.4" dur="2.5s" repeatCount="indefinite"/></rect>
+    <rect x="864" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.8;1 0.35;1 0.65;1 0.8" dur="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="876" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.25;1 0.6;1 0.95;1 0.25" dur="2.3s" repeatCount="indefinite"/></rect>
+    <rect x="888" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.6;1 0.3;1 0.75;1 0.6" dur="2s" repeatCount="indefinite"/></rect>
+    <rect x="900" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.35;1 0.8;1 0.4;1 0.35" dur="2.7s" repeatCount="indefinite"/></rect>
+    <rect x="912" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.7;1 0.25;1 0.55;1 0.7" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="924" y="-30" width="5" height="60" rx="2.5"><animateTransform attributeName="transform" type="scale" values="1 0.45;1 0.9;1 0.3;1 0.45" dur="2.2s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="716" y="62" width="26" height="140" fill="url(#sf-beam)" opacity="0.55">
+    <animate attributeName="x" values="700;956;700" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<line x1="736" y1="178" x2="950" y2="178" stroke="#0C4A6E" stroke-width="1"/>
+<text x="736" y="196" font-family="'SF Mono',Consolas,monospace" font-size="9" fill="#5E7CA6">saavn://search · gaana://top</text>
+
+<line x1="30" y1="212" x2="970" y2="212" stroke="#143055" stroke-width="1"/>
+
+<g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#A8C8EC" text-anchor="middle">
+  <rect x="30" y="226" width="62" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="61" y="243">React</text>
+  <rect x="102" y="226" width="60" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="132" y="243">Axios</text>
+  <rect x="172" y="226" width="74" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="209" y="243">Cheerio</text>
+  <rect x="256" y="226" width="80" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="296" y="243">Tailwind</text>
+  <rect x="346" y="226" width="122" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="407" y="243">Web Bluetooth</text>
+  <rect x="478" y="226" width="112" height="26" rx="13" fill="url(#sf-chip)" stroke="#0C4A6E" stroke-width="1"/><text x="534" y="243">React Router</text>
+</g>
+
+<a href="https://github.com/anjan-budige/song-finder-react" target="_blank">
+  <rect x="668" y="226" width="110" height="26" rx="13" fill="#0E2038" stroke="#38BDF8" stroke-width="1.2" opacity="0.95"/>
+  <text x="723" y="243" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" fill="#7DD3FC" text-anchor="middle" letter-spacing="0.6">SOURCE</text>
+</a>
+<a href="https://songfindernew.netlify.app/" target="_blank">
+  <rect x="788" y="226" width="182" height="26" rx="13" fill="url(#sf-ac)" opacity="0.95"/>
+  <text x="879" y="243" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" fill="#04142B" text-anchor="middle" letter-spacing="0.6">OPEN LIVE DEMO</text>
+</a>
+</svg>

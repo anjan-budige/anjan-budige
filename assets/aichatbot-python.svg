@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="AI Banking Chatbot: Python, Flask, PyTorch, NLTK. Intent classification neural network with a decoupled Flask REST API and web chat frontend.">
+<defs>
+  <linearGradient id="cb-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#071527"/>
+    <stop offset="52%" stop-color="#0A1B38"/>
+    <stop offset="100%" stop-color="#060D1C"/>
+  </linearGradient>
+  <linearGradient id="cb-ac" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#3B82F6"/>
+  </linearGradient>
+  <linearGradient id="cb-bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0891B2" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#1D4ED8" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.75"/>
+  </linearGradient>
+  <linearGradient id="cb-sh" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#A5F3FC" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#A5F3FC" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#A5F3FC" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="cb-chip" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0F2B47"/>
+    <stop offset="100%" stop-color="#0A1B33"/>
+  </linearGradient>
+  <radialGradient id="cb-g1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#0891B2" stop-opacity="0.4"/>
+    <stop offset="100%" stop-color="#0891B2" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cb-g2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#2563EB" stop-opacity="0.32"/>
+    <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cb-ic" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="cb-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0H0v26" fill="none" stroke="#155E75" stroke-opacity="0.18" stroke-width="1"/>
+  </pattern>
+  <clipPath id="cb-clip"><rect x="2" y="2" width="996" height="276" rx="18"/></clipPath>
+</defs>
+
+<rect x="2" y="2" width="996" height="276" rx="18" fill="url(#cb-bg)"/>
+<g clip-path="url(#cb-clip)">
+  <rect x="2" y="2" width="996" height="276" fill="url(#cb-grid)"/>
+  <circle cx="90" cy="60" r="190" fill="url(#cb-ic)"/>
+  <ellipse cx="940" cy="240" rx="260" ry="150" fill="url(#cb-g1)"/>
+  <ellipse cx="620" cy="10" rx="230" ry="120" fill="url(#cb-g2)"/>
+
+  <g fill="#67E8F9">
+    <circle cx="690" cy="40" r="1.6" opacity="0.5"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="668" cy="196" r="1.3" opacity="0.4"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="982" cy="96" r="1.5" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="26" cy="228" r="1.4" opacity="0.35"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="6.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="-500" y="-60" width="230" height="420" fill="url(#cb-sh)" transform="skewX(-18)">
+    <animate attributeName="x" from="-500" to="1250" dur="7.2s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x="2" y="2" width="996" height="276" rx="18" fill="none" stroke="url(#cb-bd)" stroke-width="1.5"/>
+<rect x="2" y="2" width="996" height="276" rx="18" fill="none" stroke="url(#cb-ac)" stroke-width="2" stroke-linecap="round" stroke-dasharray="170 2400" opacity="0.9">
+  <animate attributeName="stroke-dashoffset" from="0" to="-2570" dur="7.8s" repeatCount="indefinite"/>
+</rect>
+
+<g stroke="url(#cb-ac)" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.85">
+  <path d="M20 40V30a10 10 0 0 1 10-10h10"/>
+  <path d="M980 240v10a10 10 0 0 1-10 10h-10"/>
+</g>
+
+<g transform="translate(49,49)" fill="#FFFFFF">
+  <path d="M20 2H4C2.9 2 2 2.9 2 4v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM7 9h10v2H7V9zm7-3H7V4h7v2z"/>
+</g>
+<rect x="30" y="30" width="62" height="62" rx="16" fill="none" stroke="url(#cb-ac)" stroke-width="1.2" opacity="0.65"/>
+<circle cx="61" cy="61" r="46" fill="url(#cb-ic)" opacity="0.5">
+  <animate attributeName="opacity" values="0.25;0.6;0.25" dur="4.6s" repeatCount="indefinite"/>
+</circle>
+
+<text x="112" y="52" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F8FAFC" letter-spacing="0.2">AI Banking Support Chatbot</text>
+<text x="112" y="76" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#89A8C4">Intent-classification neural network served through a Flask API</text>
+
+<rect x="742" y="26" width="228" height="24" rx="12" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/>
+<circle cx="758" cy="38" r="3.5" fill="#22D3EE"><animate attributeName="opacity" values="1;0.25;1" dur="1.9s" repeatCount="indefinite"/></circle>
+<text x="770" y="42" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#67E8F9" letter-spacing="1.3">MACHINE LEARNING · NLP</text>
+
+<g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#C4DAE8">
+  <g fill="#22D3EE">
+    <path d="M116 112l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M116 136l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M116 160l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M116 184l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M414 112l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M414 136l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+    <path d="M414 160l3.4 3.4-3.4 3.4-3.4-3.4z"/><path d="M414 184l3.4 3.4-3.4 3.4-3.4-3.4z"/>
+  </g>
+  <text x="128" y="120">NLTK tokenization, stemming, intents</text>
+  <text x="128" y="144">PyTorch feed-forward neural network</text>
+  <text x="128" y="168">Trained on banking support dataset</text>
+  <text x="128" y="192">Retrainable via train.py → data.pth</text>
+  <text x="426" y="120">Flask prediction API with CORS</text>
+  <text x="426" y="144">Decoupled HTML / JavaScript frontend</text>
+  <text x="426" y="168">Console testing mode via chat.py</text>
+  <text x="426" y="192">Domain-specific intent classification</text>
+</g>
+
+<rect x="716" y="62" width="254" height="140" rx="14" fill="#07192C" fill-opacity="0.72" stroke="#155E75" stroke-width="1"/>
+<circle cx="736" cy="84" r="3.5" fill="#22D3EE"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+<text x="748" y="88" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="600" fill="#67E8F9" letter-spacing="1.4">INFERENCE NETWORK</text>
+
+<g stroke="#1E5A7A" stroke-width="1.1" fill="none">
+  <g stroke="#2DD4EE">
+    <path d="M758 112L843 102" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0s" repeatCount="indefinite"/></path>
+    <path d="M758 112L843 126" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.2s" repeatCount="indefinite"/></path>
+    <path d="M758 112L843 150" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></path>
+    <path d="M758 112L843 174" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></path>
+    <path d="M758 140L843 102" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></path>
+    <path d="M758 140L843 126" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></path>
+    <path d="M758 140L843 150" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.7s" repeatCount="indefinite"/></path>
+    <path d="M758 140L843 174" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></path>
+    <path d="M758 168L843 102" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></path>
+    <path d="M758 168L843 126" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></path>
+    <path d="M758 168L843 150" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="1s" repeatCount="indefinite"/></path>
+    <path d="M758 168L843 174" opacity="0.3"><animate attributeName="opacity" values="0.18;0.95;0.18" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></path>
+  </g>
+  <g stroke="#3B82F6">
+    <path d="M843 102L928 124" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></path>
+    <path d="M843 102L928 158" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></path>
+    <path d="M843 126L928 124" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.4s" repeatCount="indefinite"/></path>
+    <path d="M843 126L928 158" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></path>
+    <path d="M843 150L928 124" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></path>
+    <path d="M843 150L928 158" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.7s" repeatCount="indefinite"/></path>
+    <path d="M843 174L928 124" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></path>
+    <path d="M843 174L928 158" opacity="0.3"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></path>
+  </g>
+</g>
+
+<g fill="#67E8F9">
+  <circle cx="758" cy="112" r="5"><animate attributeName="r" values="4;6;4" dur="2.6s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="758" cy="140" r="5"><animate attributeName="r" values="4;6;4" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="758" cy="168" r="5"><animate attributeName="r" values="4;6;4" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#38BDF8">
+  <circle cx="843" cy="102" r="4.5"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <circle cx="843" cy="126" r="4.5"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="843" cy="150" r="4.5"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="843" cy="174" r="4.5"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" begin="1.1s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#818CF8">
+  <circle cx="928" cy="124" r="6"><animate attributeName="r" values="5;7.5;5" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="928" cy="158" r="6"><animate attributeName="r" values="5;7.5;5" dur="2.6s" begin="1.7s" repeatCount="indefinite"/></circle>
+</g>
+
+<text x="736" y="196" font-family="'SF Mono',Consolas,monospace" font-size="9" fill="#4F7B96">intents.json → data.pth → /predict</text>
+
+<line x1="30" y1="212" x2="970" y2="212" stroke="#123149" stroke-width="1"/>
+
+<g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#A3CFE6" text-anchor="middle">
+  <rect x="30" y="226" width="70" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="65" y="243">Python</text>
+  <rect x="110" y="226" width="58" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="139" y="243">Flask</text>
+  <rect x="178" y="226" width="78" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="217" y="243">PyTorch</text>
+  <rect x="266" y="226" width="58" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="295" y="243">NLTK</text>
+  <rect x="334" y="226" width="92" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="380" y="243">JavaScript</text>
+  <rect x="436" y="226" width="82" height="26" rx="13" fill="url(#cb-chip)" stroke="#155E75" stroke-width="1"/><text x="477" y="243">REST API</text>
+</g>
+
+<a href="https://github.com/anjan-budige/aichatbot-python" target="_blank">
+  <rect x="838" y="226" width="132" height="26" rx="13" fill="url(#cb-ac)" opacity="0.95"/>
+  <text x="904" y="243" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" fill="#04182B" text-anchor="middle" letter-spacing="0.6">VIEW SOURCE</text>
+</a>
+</svg>

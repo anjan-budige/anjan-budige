@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,30&height=185&section=header&text=ANJAN%20BUDIGE&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Fullstack%20MERN%20Developer%20%7C%20Ethical%20Hacking%20%7C%20Reverse%20Engineering%20%7C%20Mobile%20Development&descAlignY=53&descAlign=50" alt="Anjan Budige banner" />
 
-<img src="https://komarev.com/ghpvc/?username=anjan-budige&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/anjan-budige/anjan-budige.svg?label=PROFILE+VIEWS&color=22C55E&style=for-the-badge&labelColor=111827" alt="Profile views" />
 <a href="https://github.com/anjan-budige">
   <img src="https://img.shields.io/github/followers/anjan-budige?style=for-the-badge&color=22C55E&labelColor=111827&label=FOLLOWERS" alt="GitHub followers" />
 </a>
@@ -89,7 +89,13 @@ I work on security research only in authorized, owned, or intentionally vulnerab
 <div align="center">
   <h2><b>CONTRIBUTION GRAPH</b></h2>
   <hr style="width:50%; border-top: 2px solid grey;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjan-budige&bg_color=0d1117&color=ffffff&line=22C55E&point=86EFAC&area=true&area_color=22C55E&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub activity graph" />
+  <img src="assets/generated/graph.svg" alt="Contribution activity graph" width="100%" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjan-budige/anjan-budige/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjan-budige/anjan-budige/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anjan-budige/anjan-budige/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -100,36 +106,66 @@ I work on security research only in authorized, owned, or intentionally vulnerab
 </div>
 
 <div align="center">
-
 <a href="https://github.com/anjan-budige/diya-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=diya-backend&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="diya-backend" />
+  <img src="assets/diya-backend.svg" width="100%" alt="diya-backend" />
 </a>
+</div>
+
+<div align="center">
+Node.js / Express + PostgreSQL backend powering the Diya music app with JWT auth, collaborative playlists and listening analytics.<br/>
+Socket.IO drives real-time multi-user Vibe Sessions for synchronized listening across 30+ REST endpoints.
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://github.com/anjan-budige/educational-task-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=educational-task-management&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="educational-task-management" />
+  <img src="assets/educational-task-management.svg" width="100%" alt="educational-task-management" />
 </a>
-
 </div>
 
 <div align="center">
+Full-stack MERN academic platform with separate Admin, Faculty and Student portals behind role-based JWT access control.<br/>
+Course / batch / user management, task submission and grading, plus a Recharts analytics dashboard with PDF report export.
+</div>
 
+<br/>
+
+<div align="center">
 <a href="https://github.com/anjan-budige/song-finder-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=song-finder-react&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="song-finder-react" />
+  <img src="assets/song-finder-react.svg" width="100%" alt="song-finder-react" />
 </a>
-<a href="https://github.com/anjan-budige/Trafficflow-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=Trafficflow-Analysis&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="Trafficflow-Analysis" />
-</a>
-
 </div>
 
 <div align="center">
+React music-discovery app that live-scrapes JioSaavn and Gaana for search, genre suggestions and streaming links.<br/>
+Mobile-first UI with dark mode and Bluetooth hardware-button navigation, deployed live on Netlify.
+</div>
 
+<br/>
+
+<div align="center">
 <a href="https://github.com/anjan-budige/aichatbot-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=aichatbot-python&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="aichatbot-python" />
+  <img src="assets/aichatbot-python.svg" width="100%" alt="aichatbot-python" />
 </a>
-<a href="https://github.com/anjan-budige/AI-imagegen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjan-budige&repo=AI-imagegen&theme=github_dark&hide_border=true&border_radius=10&title_color=22C55E" width="45%" alt="AI-imagegen" />
-</a>
+</div>
 
+<div align="center">
+Banking support chatbot trained on a structured intents dataset with NLTK preprocessing and a PyTorch feed-forward network.<br/>
+Served as a CORS-enabled Flask prediction API with a decoupled HTML/JS frontend, or runnable in console via chat.py.
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/anjan-budige/Trafficflow-Analysis">
+  <img src="assets/trafficflow-analysis.svg" width="100%" alt="Trafficflow-Analysis" />
+</a>
+</div>
+
+<div align="center">
+Streamlit + YOLOv11 + OpenCV tool that detects and counts vehicles from uploaded videos or live camera feeds in real time.<br/>
+Classifies traffic as Rush / No-Rush from vehicle density and streams live statistics on a web dashboard.
 </div>
 
 <br/>
