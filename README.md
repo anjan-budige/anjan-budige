@@ -132,7 +132,7 @@ Socket.IO drives real-time multi-user Vibe Sessions for synchronized listening a
 <br/>
 
 <div align="center">
-<a href="https://github.com/anjan-budige/educational-task-management">
+<a href="https://github.com/anjan-budige/Education-Task-Management">
   <img src="assets/educational-task-management.svg" width="100%" alt="educational-task-management" />
 </a>
 </div>
