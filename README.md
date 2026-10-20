@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,30&height=185&section=header&text=ANJAN%20BUDIGE&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Fullstack%20MERN%20Developer%20%7C%20Ethical%20Hacking%20%7C%20Reverse%20Engineering%20%7C%20Mobile%20Development&descAlignY=53&descAlign=50" alt="Anjan Budige banner" />
 
